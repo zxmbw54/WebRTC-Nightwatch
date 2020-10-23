@@ -1,0 +1,21 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^86.0.0",
+    "getstats": "^1.2.0",
+    "selenium-server": "^3.141.59"
+  },
+  "dependencies": {
+    "@peermetrics/webrtc-stats": "^2.2.3",
+    "rtcstats": "^5.2.0"
+  }
+}
